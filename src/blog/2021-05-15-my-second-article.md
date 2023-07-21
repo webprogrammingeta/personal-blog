@@ -1,6 +1,6 @@
 ---
 title: My Second Article
-author: Kevin Powell
+author: Agly Kedoh
 date: 2021-05-15
 image: /assets/blog/article-2.jpg
 imageAlt: This is a test
