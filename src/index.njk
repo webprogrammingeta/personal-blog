@@ -1,13 +1,12 @@
 ---
-title : My Homepage
+title : Home
 layout : 'base.njk'
 ---
 <section class="hero">
   <div class="container flow">
       <div class="hero__content flow">
         <h1 class="section-title">Selamat Datang di blog saya !</h1>
-        <p>Saya menggunakan ruang ini untuk mendokumentasikan petualangan saya dalam pengembangan front-end, berbagi cara saya mengatasi masalah yang saya hadapi, referensi yang bermanfaat, dan banyak lagi.</p>
-         <p>Di bawah ini adalah beberapa artikel favorit saya, atau Anda dapat membuka halaman blog untuk melihat postingan terbaru saya.</p>
+        <p>Saya menggunakan ruang ini untuk mendokumentasikan petualangan saya dalam menulis artikel, berbagi cara saya mengatasi masalah yang saya hadapi, referensi yang bermanfaat, dan masih banyak lagi.</p>
         <div class="flex-group">
           <a href="#featured-articles" class="btn btn--primary">Artikel unggulan</a>
           <a href="./blog" class="btn btn--neutral">Artikel terbaru</a>
@@ -18,11 +17,11 @@ layout : 'base.njk'
       </div>
   </div>
 </section>
-
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill=" #E9FBF8" fill-opacity="1" d="M0,256L34.3,240C68.6,224,137,192,206,186.7C274.3,181,343,203,411,192C480,181,549,139,617,101.3C685.7,64,754,32,823,64C891.4,96,960,192,1029,202.7C1097.1,213,1166,139,1234,101.3C1302.9,64,1371,64,1406,64L1440,64L1440,320L1405.7,320C1371.4,320,1303,320,1234,320C1165.7,320,1097,320,1029,320C960,320,891,320,823,320C754.3,320,686,320,617,320C548.6,320,480,320,411,320C342.9,320,274,320,206,320C137.1,320,69,320,34,320L0,320Z"></path></svg>
 <section id="featured-articles" class="featured-articles">
   <div class="container flow">
-    <h2 class="section-title text-center ">Featured articles</h2>
-    <p class="text-center">Here is a sample of articles which I feel give you a good idea of what this site is all about.</p>
+    <h2 class="section-title text-center ">Artikel unggulan</h2>
+    <p class="text-center">Berikut adalah contoh artikel yang saya rasa memberi Anda ide bagus tentang apa situs ini.</p>
     <ul role="list" class="articles__list flow">
       {%- for post in collections.featured | reverse -%}
 		    {% include 'article_snippets.njk' %}

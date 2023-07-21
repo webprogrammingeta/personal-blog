@@ -5,7 +5,7 @@ date: 2023-07-23
 tags: ["post", "featured"]
 image: /assets/blog/article-6.jpg
 imageAlt: Respon atau tanggapan pada firman Tuhan
-description: Respon atau tanggapan pada firman Tuhan . Beginilah Respon Anak muda di zaman sekarang ....
+description: Respon kita akan menentukan pilihan. Pilihan kita akan menentukan pertumbuhan kita. Banyak orang Kristen yang struggle akan hidup nya dan kita berteriak WHY. Lihat responmu terhadap firman Tuhan . . . . .
 ---
 PRINSIP TEOLOGI TENTANG PERTUMBUHAN
 
