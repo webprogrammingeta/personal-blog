@@ -1,7 +1,7 @@
 ---
 title: Marah Biasa Tetapi Bukan Kebiasaan
 author: Agly Kedoh
-date: 2023-07-24
+date: 2023-07-21
 tags: ["post", "featured"]
 image: /assets/blog/5.jpg
 imageAlt: Marah Biasa Tetapi Bukan Kebiasaan
