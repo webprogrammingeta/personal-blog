@@ -1,7 +1,7 @@
 ---
 title: Respon atau tanggapan pada firman Tuhan
 author: Agly Kedoh
-date: 2023-07-23
+date: 2023-07-19
 tags: ["post", "featured"]
 image: /assets/blog/article-6.jpg
 imageAlt: Respon atau tanggapan pada firman Tuhan
