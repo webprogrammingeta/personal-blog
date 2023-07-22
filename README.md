@@ -1,6 +1,6 @@
 # Blog Pribadi saya dibangun pakai Eleventy dan Netlify CMS
 
- Run the project : 
+ Run this project : 
  - Clone this project
  - npm install
  - npm start
