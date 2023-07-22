@@ -5,7 +5,7 @@
  - npm install
  - npm start
 
-demo : aglysblog.netlify.app
+demo : https://aglysblog.netlify.app
 
 Thank You and Happy coding :)
 
