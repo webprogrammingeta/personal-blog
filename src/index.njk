@@ -5,8 +5,10 @@ layout : 'base.njk'
 <section class="hero">
   <div class="container flow">
       <div class="hero__content flow">
-        <h1 class="section-title">Selamat Datang di blog saya !</h1>
-        <p>Saya menggunakan ruang ini untuk mendokumentasikan petualangan saya dalam menulis artikel, berbagi cara saya mengatasi masalah yang saya hadapi, referensi yang bermanfaat, dan masih banyak lagi.</p>
+        <h1 class="section-title">Welcome to Agly'sblog !</h1>
+        <p>Hello, I'm agly kedoh , Senang berkenalan dengan Anda.<br>
+         Saya menggunakan ruang ini untuk mendokumentasikan petualangan saya dalam menulis artikel dan Content Writter. Lihat Postingan saya jika kalian menyukainya 😉</p>
+        <p>Happy Reading and Good Luck !</p>
         <div class="flex-group">
           <a href="#featured-articles" class="btn btn--primary">Artikel unggulan</a>
           <a href="./blog" class="btn btn--neutral">Artikel terbaru</a>
@@ -21,7 +23,7 @@ layout : 'base.njk'
 <section id="featured-articles" class="featured-articles">
   <div class="container flow">
     <h2 class="section-title text-center ">Artikel unggulan</h2>
-    <p class="text-center">Berikut adalah contoh artikel yang saya rasa memberi Anda ide bagus tentang apa situs ini.</p>
+    <p class="text-center">Lihatlah beberapa artikel yang menurut anda bagus</p>
     <ul role="list" class="articles__list flow">
       {%- for post in collections.featured | reverse -%}
 		    {% include 'article_snippets.njk' %}

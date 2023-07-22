@@ -1,5 +1,5 @@
 ---
-title: Pengharapan, Kekuatan Yang Luar Biasa
+title: Pengharapan Kekuatan Yang Luar Biasa
 author: Agly Kedoh
 date: 2023-07-13
 tags: ["post", "featured"]
