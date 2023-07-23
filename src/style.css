@@ -6,10 +6,11 @@
   --fs-700: 2rem;
 
   --ff-body: "Roboto", sans-serif;
-  --ff-heading: "Playfair Display", serif;
+  --ff-heading: "Poppins", sans-serif;
 
   --fw-400: 400;
   --fw-700: 700;
+  --fw-600: 600;
   --fw-900: 900;
 
   --clr-primary-200: hsla(169, 70%, 95%, 1);
@@ -129,7 +130,7 @@ h1,
 h2,
 h3 {
   font-family: var(--ff-heading);
-  font-weight: var(--fw-900);
+  font-weight: var(--fw-600);
   line-height: 1.1;
 }
 
